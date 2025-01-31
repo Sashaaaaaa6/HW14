@@ -29,3 +29,47 @@
   margin-right: 50px;
   margin-left: 50px;
 }
+.header-ul2 {
+  display: flex;
+  list-style: none;
+}
+.li-a2 {
+  margin-right: 30px;
+}
+.main-ul {
+  display: flex;
+  list-style: none;
+}
+.img1:not(:last-child) {
+  margin-right: 30px;
+}
+.main-ul2 {
+  display: flex;
+  list-style: none;
+}
+.img2:not(:last-child) {
+  margin-right: 30px;
+}
+.dd {
+  padding-bottom: 30px;
+}
+.main-ul3 {
+  display: flex;
+  list-style: none;
+}
+.img3:not(:last-child) {
+  margin-right: 30px;
+}
+.pp {
+  padding-bottom: 30px;
+}
+.mm {
+  padding-bottom: 194px;
+}
+.ww {
+  padding-top: 20px;
+}
+.footer-ul {
+  display: block;
+  list-style: none;
+}
